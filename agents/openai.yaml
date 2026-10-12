@@ -1,0 +1,4 @@
+interface:
+  display_name: "自备接口出图"
+  short_description: "用你自己提供的接口地址与密钥生成图片，支持文生图、图生图与图片编辑"
+  default_prompt: "用 $custom-imagegen 生成一张图片，接口地址与密钥我已经配置好了。"
